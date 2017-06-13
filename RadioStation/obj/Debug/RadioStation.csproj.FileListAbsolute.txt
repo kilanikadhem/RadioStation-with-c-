@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\bin\Debug\RadioStation.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\bin\Debug\RadioStation.exe
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\bin\Debug\RadioStation.pdb
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\bin\Debug\Interop.WMPLib.dll
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\bin\Debug\AxInterop.WMPLib.dll
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\obj\Debug\RadioStation.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\obj\Debug\Interop.WMPLib.dll
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\obj\Debug\AxInterop.WMPLib.dll
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\obj\Debug\RadioStation.csproj.ResolveComReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\obj\Debug\RadioStation.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\obj\Debug\RadioStation.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\obj\Debug\RadioStation.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\obj\Debug\RadioStation.exe
+c:\users\asus\documents\visual studio 2015\Projects\RadioStation\RadioStation\obj\Debug\RadioStation.pdb
